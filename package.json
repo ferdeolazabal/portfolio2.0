@@ -1,7 +1,7 @@
 {
-  "name": "html5up-miniport",
+  "name": "ferdeolazabal-brief",
   "version": "1.0.0",
-  "description": "Miniport by HTML5 UP\r html5up.net | @ajlkn\r Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)",
+  "description": "brief",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
