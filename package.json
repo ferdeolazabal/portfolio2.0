@@ -4,7 +4,9 @@
   "description": "brief",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "deploy": "surge --project ./public --domain ferdeolazabal.surge.sh"
+
   },
   "keywords": [],
   "author": "",
