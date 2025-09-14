@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ferdeolazabal.surge.sh/sitemap.xml
